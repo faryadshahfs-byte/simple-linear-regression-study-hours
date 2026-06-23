@@ -31,9 +31,6 @@ The dataset contains two continuous variables mapping student performance:
 ## Data Visualization
 A linear relationship can be visualized via a scatter plot mapping Hours against Marks. The data shows a perfectly positive linear correlation.
 
-*(Note: Save your generated graph plot as `hours_vs_marks.png` in your repository root and uncomment the line below)*
-<!-- ![Hours vs Marks Graph](hours_vs_marks.png) -->
-
 ## Model Training & Execution
 The model is constructed using Scikit-Learn's `linear_model.LinearRegression`.
 
